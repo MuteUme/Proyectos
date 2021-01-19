@@ -1,1 +1,1 @@
-Este es un script Zabbix
+Este es un script Zabbix que contiene Userparameters	
